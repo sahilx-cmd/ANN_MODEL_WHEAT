@@ -1,1 +1,0 @@
-# ANN_MODEL_WHEAT
